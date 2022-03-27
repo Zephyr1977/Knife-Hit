@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Knife
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 3760336511
+    locked: 0
+  - name: Box
+    uniqueID: 2788279369
+    locked: 0
+  - name: Objects
+    uniqueID: 2145654537
+    locked: 0
+  - name: Emotions
+    uniqueID: 3821293133
+    locked: 0
+  - name: Monsters
+    uniqueID: 2836183535
+    locked: 0
+  - name: UI
+    uniqueID: 4147250719
+    locked: 0
